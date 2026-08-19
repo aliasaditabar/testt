@@ -1,3 +1,3 @@
 h1{
-    colro : red;
+    colro : blue;
 }
